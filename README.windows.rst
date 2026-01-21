@@ -9,7 +9,7 @@ drastically improving the performance.
 Building
 --------
 
-At the moment, mingw gcc >= 8 is the only supported compiler for building ceph
+At the moment, mingw gcc >= 8.1 is the only supported compiler for building ceph
 components for Windows. Support for msvc and clang will be added soon.
 
 `win32_build.sh`_ can be used for cross compiling Ceph and its dependencies.
